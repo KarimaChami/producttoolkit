@@ -1,0 +1,26 @@
+{
+    "users": [
+     
+     
+      {
+        "id": 1,
+        "fullName": "saida aouras",
+        "email": "saidaaouras@gmail.com",
+        "password":"saida123"
+      },
+      {
+        "id": 2,
+        "fullName": "karima chami",
+        "email": "karimachami@gmail.com",
+          "password":"karima123"
+      },
+      {
+        "id": 3,
+        "fullName": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
+          "password":"ethan123"
+      }
+    ]
+   
+  }
+  

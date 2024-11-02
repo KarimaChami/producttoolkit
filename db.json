@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "afdc",
+      "title": "product112",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpynNOkRDsFnvLKjJAhrNIHmCmlgSJwGJbg&s",
+      "comment": "1111",
+      "price": "99"
+    },
+    {
+      "id": "074c",
+      "title": "pro3",
+      "image": "https://realauthentication.com/wp-content/uploads/2022/01/How-Much-Is-A-Birkin-Bag.jpg",
+      "comment": "ff",
+      "price": "9999"
+    },
+    {
+      "id": "9130",
+      "title": "khadija",
+      "image": "https://globalboutique.com/wp-content/uploads/2023/06/featured-hermes-birkin.jpg",
+      "comment": "khawziiija",
+      "price": "10"
+    }
+  ]
+}
